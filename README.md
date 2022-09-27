@@ -1,4 +1,4 @@
-## PHP-Project
+## PHP-Projects
 Feel free to create new file, don't hesitate to pull your code
 
 ## Hacktoberfest
