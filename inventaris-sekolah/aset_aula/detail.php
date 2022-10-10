@@ -10,15 +10,15 @@
 
 	include("../function/rupiah.php")
 ?>
-
+<!-- header -->
 	<?php include("../layout/head.php") ?>
-	
+	<!-- sidebar profil -->
 	<?php include("../layout/sidebar_profil.php") ?>
-
+<!-- sidebar menu -->
 	<?php include("../layout/sidebar_menu.php") ?>
-
+<!-- sidebarr navbar -->
 	<?php include("../layout/navbar.php") ?>
-
+ 
 	<div class="content-container">
 		<ol class="breadcrumb">
 		   	<li class="breadcrumb-item"><a href="#">Dashboard</a></li>
@@ -26,7 +26,7 @@
 		   	<li class="breadcrumb-item"><a href="#">Detail Data Aset</a></li>
 		    <li class="breadcrumb-item active" aria-current="page"><?= $_GET['id'] ?></li>
 		</ol>
-
+<!-- detail aset -->
 		<div class="content shadow">
 			<div class="isi">
 				<h4>Detail Data Aset</h4>
