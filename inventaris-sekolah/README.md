@@ -20,4 +20,5 @@ Website ini bertujuan untuk memberikan edukasi/pembelajaran untuk yang ingin mem
 (Only Desktop view)
 
 ## Apa yang harus saya lakukan untuk menghargai project ini?
-Kamu tidak harus melakukan apapun, tetapi jika kamu menghargai developer ini, kamu bisa melakukan donasi dukungan disini : https://trakteer.id/rizall-kadamong
+> Kamu tidak harus melakukan apapun, tetapi jika kamu menghargai developer ini, kamu bisa melakukan donasi dukungan (donate) disini : https://trakteer.id/rizall-kadamong
+> ~ creator
