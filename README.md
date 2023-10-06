@@ -19,4 +19,4 @@ Please make sure to update tests as appropriate
 <br /> <br />
 
 ---
-HacktoberFest @2022 [HacktoberFest](https://hacktoberfest.com/about/)
+HacktoberFest @2023 [HacktoberFest](https://hacktoberfest.com/about/)
